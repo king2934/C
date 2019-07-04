@@ -1,7 +1,7 @@
 # mariadb dir
 *.exe
 *.dll
-*
+
 !.gitignore
 !libmariadb.dll
 !*.c
